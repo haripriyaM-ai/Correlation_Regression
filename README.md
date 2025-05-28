@@ -1,5 +1,5 @@
 # EXP NO: 3
-# DATE:
+# DATE: 15.05.2025
 # Correlation and regression for data analysis
 # Aim : 
 
